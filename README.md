@@ -1,3 +1,5 @@
+<img width="5400" height="1350" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/e40ff668-195e-43c1-9e3f-7ee1d3b472e8" />
+<img width="543" height="361" alt="bacc0d6e-f2c5-4d7f-82ed-fc5e846e303d" src="https://github.com/user-attachments/assets/14eb92f0-5c43-4ad4-95bd-882fd9af3217" />
 # ECOLUME - Smart Solar Street Lighting System
 
 🏆 Winner - 1st Place, ECE Department Hackathon
